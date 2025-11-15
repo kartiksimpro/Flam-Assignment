@@ -1,4 +1,4 @@
-# QueueCTL (MongoDB) 🚀
+# Queue-CIL🚀
 
 Production-grade, CLI-driven background job queue for Node.js with MongoDB. It handles enqueuing, concurrent workers, atomic locking, retries with exponential backoff, and a Dead Letter Queue.
 
